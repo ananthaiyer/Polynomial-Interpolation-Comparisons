@@ -1,4 +1,4 @@
-### Polynomial-Interpolation-Comparisons
+### Exploring polynomial interpolation methods
 
 The sheet has code to the three tasks:
   1. Neville scheme to find the derivative of a function
